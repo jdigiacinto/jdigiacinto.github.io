@@ -2,7 +2,7 @@
 
 MFA fatigue was a key player in the Uber hack last month. Below is a message from the alleged hacker, according to Kevin Beaumont on Twitter. <https://twitter.com/GossiTheDog/status/1570717994397073410>
 
-![Message from the alleged hacker](/_img/mfa-fatigue-message.png)
+![Message from the alleged hacker](https://github.com/jdigiacinto/jdigiacinto.github.io/blob/master/_img/mfa-fatigue-message.png)
 
 According to Steve Elovitz, Vice President of Mandiant on Twitter, there is a trend towards the abuse of MFA push notifications:
 > Seeing an increasing amount of abuse of MFA prompt "push" notifications. Attackers are simply spamming it until the users approve. Suggest disabling push in favor of pin, or something like Yubico for simplicity. In the meantime, alert on volume of push attempts per account.
