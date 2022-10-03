@@ -1,12 +1,12 @@
 # Multi-Factor Authentication "Fatigue" and Social Media Discussion Surrounding Uber Hack
 
-MFA fatigue was a key player in the Uber hack last month. Below is a message from the alleged hacker, according to Kevin Beaumont on Twitter. (https://twitter.com/GossiTheDog/status/1570717994397073410)
+MFA fatigue was a key player in the Uber hack last month. Below is a message from the alleged hacker, according to Kevin Beaumont on Twitter. <https://twitter.com/GossiTheDog/status/1570717994397073410>
 
-<img src="/_img/mfa-fatigue-message.png" alt="Message from the alleged hacker">
+![Message from the alleged hacker](/_img/mfa-fatigue-message.png)
 
 According to Steve Elovitz, Vice President of Mandiant on Twitter, there is a trend towards the abuse of MFA push notifications:
 > Seeing an increasing amount of abuse of MFA prompt "push" notifications. Attackers are simply spamming it until the users approve. Suggest disabling push in favor of pin, or something like Yubico for simplicity. In the meantime, alert on volume of push attempts per account.
-(https://twitter.com/SElovitz/status/1497598379622293504)
+<https://twitter.com/SElovitz/status/1497598379622293504>
 
 He goes on to say that in the mean time, OTP, or better FIDO2, should be implemented. He mentions Yubico, a well-known manufacturer of hardware MFA keys, most utilizing the FIDO2 standards. Yubico has been quick to capitalize on the attention surrounding the MFA fatigue attack at Uber, claiming that their product is resistant to phishing techniques like MFA fatigue. They even [produced a video](https://twitter.com/i/status/1575172627387162624) with Rachel Tobac, CEO of SocialProof Security, to demonstrate.
 
